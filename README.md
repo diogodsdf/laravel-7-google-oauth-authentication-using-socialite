@@ -1,4 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg" width="400"></p>
+<p align="center">
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50"> <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="200">
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -6,9 +8,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-<p align="center">
-<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50"> <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="200">
-</p>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
